@@ -1,0 +1,6 @@
+c:\users\павлове\documents\visual studio 2017\Projects\Reflection-Dz\Reflection-Dz\bin\Debug\Reflection-Dz.exe.config
+c:\users\павлове\documents\visual studio 2017\Projects\Reflection-Dz\Reflection-Dz\bin\Debug\Reflection-Dz.exe
+c:\users\павлове\documents\visual studio 2017\Projects\Reflection-Dz\Reflection-Dz\bin\Debug\Reflection-Dz.pdb
+c:\users\павлове\documents\visual studio 2017\Projects\Reflection-Dz\Reflection-Dz\obj\Debug\Reflection-Dz.csprojResolveAssemblyReference.cache
+c:\users\павлове\documents\visual studio 2017\Projects\Reflection-Dz\Reflection-Dz\obj\Debug\Reflection-Dz.exe
+c:\users\павлове\documents\visual studio 2017\Projects\Reflection-Dz\Reflection-Dz\obj\Debug\Reflection-Dz.pdb
